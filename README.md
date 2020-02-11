@@ -1,5 +1,6 @@
 # Project 만든 소요시간
-> 2020-02-11 : 06 ~ 07:20
+> 2020-02-11 : 
+  >> 18:00 ~ 19:20
 
 > Jar File : Get 요청을 Count 만큼 전송한다.
 
@@ -13,3 +14,8 @@
 
 > URL , COUNT 만 간단히 존재합니다.
 
+## Project Pattern
+
+> VC Pattern ( View & Controller )
+> 각각의 View 와 Controller는 각자의 역할만 수행한다.
+> 이러한 일을 가능하게 하는 것은 의존성 주입을 인터페이스로 받아 처리한다.
